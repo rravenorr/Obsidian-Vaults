@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Progression.md",
+                "file": "Cybersecurity Knowledge Progression.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Progression.md",
+                "file": "Cybersecurity Knowledge Progression.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity Progression.md",
+                "file": "Cybersecurity Knowledge Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity Progression.md",
+                "file": "Cybersecurity Knowledge Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity Progression.md"
+                "file": "Cybersecurity Knowledge Progression.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "lastOpenFiles": [
     "Entry-Level Cybersecurity Roles.md",
     "Cyber Security Certificates.md",
-    "Cybersecurity Progression.md",
+    "Cybersecurity Knowledge Progression.md",
     "cheesedog.md",
     "depression.md",
     "Hotdog.md"
